@@ -1,0 +1,79 @@
+c:\users\delta user\documents\visual studio 2010\Projects\WindowsApplication7\WindowsApplication7\obj\x86\Debug\WindowsApplication7.Form1.resources
+c:\users\delta user\documents\visual studio 2010\Projects\WindowsApplication7\WindowsApplication7\obj\x86\Debug\WindowsApplication7.Resources.resources
+c:\users\delta user\documents\visual studio 2010\Projects\WindowsApplication7\WindowsApplication7\obj\x86\Debug\WindowsApplication7.vbproj.GenerateResource.Cache
+c:\users\delta user\documents\visual studio 2010\Projects\WindowsApplication7\WindowsApplication7\bin\Debug\WindowsApplication7.exe
+c:\users\delta user\documents\visual studio 2010\Projects\WindowsApplication7\WindowsApplication7\bin\Debug\WindowsApplication7.pdb
+c:\users\delta user\documents\visual studio 2010\Projects\WindowsApplication7\WindowsApplication7\bin\Debug\WindowsApplication7.xml
+c:\users\delta user\documents\visual studio 2010\Projects\WindowsApplication7\WindowsApplication7\obj\x86\Debug\WindowsApplication7.exe
+c:\users\delta user\documents\visual studio 2010\Projects\WindowsApplication7\WindowsApplication7\obj\x86\Debug\WindowsApplication7.xml
+c:\users\delta user\documents\visual studio 2010\Projects\WindowsApplication7\WindowsApplication7\obj\x86\Debug\WindowsApplication7.pdb
+C:\Users\DarkSlayer\Desktop\WindowsApplication7\WindowsApplication7\bin\Debug\WindowsApplication7.exe
+C:\Users\DarkSlayer\Desktop\WindowsApplication7\WindowsApplication7\bin\Debug\WindowsApplication7.pdb
+C:\Users\DarkSlayer\Desktop\WindowsApplication7\WindowsApplication7\bin\Debug\WindowsApplication7.xml
+C:\Users\DarkSlayer\Desktop\WindowsApplication7\WindowsApplication7\obj\x86\Debug\WindowsApplication7.Form2.resources
+C:\Users\DarkSlayer\Desktop\WindowsApplication7\WindowsApplication7\obj\x86\Debug\WindowsApplication7.Form3.resources
+C:\Users\DarkSlayer\Desktop\WindowsApplication7\WindowsApplication7\obj\x86\Debug\WindowsApplication7.Resources.resources
+C:\Users\DarkSlayer\Desktop\WindowsApplication7\WindowsApplication7\obj\x86\Debug\WindowsApplication7.vbproj.GenerateResource.Cache
+C:\Users\DarkSlayer\Desktop\WindowsApplication7\WindowsApplication7\obj\x86\Debug\WindowsApplication7.exe
+C:\Users\DarkSlayer\Desktop\WindowsApplication7\WindowsApplication7\obj\x86\Debug\WindowsApplication7.xml
+C:\Users\DarkSlayer\Desktop\WindowsApplication7\WindowsApplication7\obj\x86\Debug\WindowsApplication7.pdb
+C:\Users\Delta User\Desktop\WindowsApplication7\WindowsApplication7\obj\x86\Debug\WindowsApplication7.Form1.resources
+C:\Users\Delta User\Desktop\WindowsApplication7\WindowsApplication7\obj\x86\Debug\WindowsApplication7.Form2.resources
+C:\Users\Delta User\Desktop\WindowsApplication7\WindowsApplication7\obj\x86\Debug\WindowsApplication7.Form3.resources
+C:\Users\Delta User\Desktop\WindowsApplication7\WindowsApplication7\obj\x86\Debug\WindowsApplication7.frmAsk.resources
+C:\Users\Delta User\Desktop\WindowsApplication7\WindowsApplication7\obj\x86\Debug\WindowsApplication7.Resources.resources
+C:\Users\Delta User\Desktop\WindowsApplication7\WindowsApplication7\obj\x86\Debug\WindowsApplication7.vbproj.GenerateResource.Cache
+C:\Users\Delta User\Desktop\WindowsApplication7\WindowsApplication7\bin\Debug\WindowsApplication7.exe
+C:\Users\Delta User\Desktop\WindowsApplication7\WindowsApplication7\bin\Debug\WindowsApplication7.pdb
+C:\Users\Delta User\Desktop\WindowsApplication7\WindowsApplication7\bin\Debug\WindowsApplication7.xml
+C:\Users\Delta User\Desktop\WindowsApplication7\WindowsApplication7\obj\x86\Debug\WindowsApplication7.exe
+C:\Users\Delta User\Desktop\WindowsApplication7\WindowsApplication7\obj\x86\Debug\WindowsApplication7.xml
+C:\Users\Delta User\Desktop\WindowsApplication7\WindowsApplication7\obj\x86\Debug\WindowsApplication7.pdb
+C:\Users\Delta User\Desktop\WindowsApplication7\WindowsApplication7\obj\x86\Debug\WindowsApplication7.InventoryForm.resources
+C:\Users\tonia\Documents\Visual Studio 2013\Projects\WindowsApplication7\WindowsApplication7\obj\x86\Debug\WindowsApplication7.exe
+C:\Users\tonia\Documents\Visual Studio 2013\Projects\WindowsApplication7\WindowsApplication7\obj\x86\Debug\WindowsApplication7.xml
+C:\Users\tonia\Documents\Visual Studio 2013\Projects\WindowsApplication7\WindowsApplication7\obj\x86\Debug\WindowsApplication7.pdb
+C:\Users\tonia\Documents\Visual Studio 2013\Projects\WindowsApplication7\WindowsApplication7\bin\Debug\WindowsApplication7.exe
+C:\Users\tonia\Documents\Visual Studio 2013\Projects\WindowsApplication7\WindowsApplication7\bin\Debug\WindowsApplication7.pdb
+C:\Users\tonia\Documents\Visual Studio 2013\Projects\WindowsApplication7\WindowsApplication7\bin\Debug\WindowsApplication7.xml
+C:\Users\tonia\Documents\Visual Studio 2013\Projects\WindowsApplication7\WindowsApplication7\obj\x86\Debug\WindowsApplication7.Form1.resources
+C:\Users\tonia\Documents\Visual Studio 2013\Projects\WindowsApplication7\WindowsApplication7\obj\x86\Debug\WindowsApplication7.Form2.resources
+C:\Users\tonia\Documents\Visual Studio 2013\Projects\WindowsApplication7\WindowsApplication7\obj\x86\Debug\WindowsApplication7.Form3.resources
+C:\Users\tonia\Documents\Visual Studio 2013\Projects\WindowsApplication7\WindowsApplication7\obj\x86\Debug\WindowsApplication7.frmAsk.resources
+C:\Users\tonia\Documents\Visual Studio 2013\Projects\WindowsApplication7\WindowsApplication7\obj\x86\Debug\WindowsApplication7.InventoryForm.resources
+C:\Users\tonia\Documents\Visual Studio 2013\Projects\WindowsApplication7\WindowsApplication7\obj\x86\Debug\WindowsApplication7.Resources.resources
+C:\Users\tonia\Documents\Visual Studio 2013\Projects\WindowsApplication7\WindowsApplication7\obj\x86\Debug\WindowsApplication7.vbproj.GenerateResource.Cache
+C:\Users\Delta User\Documents\Visual Studio 2013\Projects\WindowsApplication7\WindowsApplication7\bin\Debug\WindowsApplication7.exe
+C:\Users\Delta User\Documents\Visual Studio 2013\Projects\WindowsApplication7\WindowsApplication7\bin\Debug\WindowsApplication7.pdb
+C:\Users\Delta User\Documents\Visual Studio 2013\Projects\WindowsApplication7\WindowsApplication7\bin\Debug\WindowsApplication7.xml
+C:\Users\Delta User\Documents\Visual Studio 2013\Projects\WindowsApplication7\WindowsApplication7\obj\x86\Debug\WindowsApplication7.Form1.resources
+C:\Users\Delta User\Documents\Visual Studio 2013\Projects\WindowsApplication7\WindowsApplication7\obj\x86\Debug\WindowsApplication7.Form2.resources
+C:\Users\Delta User\Documents\Visual Studio 2013\Projects\WindowsApplication7\WindowsApplication7\obj\x86\Debug\WindowsApplication7.Form3.resources
+C:\Users\Delta User\Documents\Visual Studio 2013\Projects\WindowsApplication7\WindowsApplication7\obj\x86\Debug\WindowsApplication7.frmAsk.resources
+C:\Users\Delta User\Documents\Visual Studio 2013\Projects\WindowsApplication7\WindowsApplication7\obj\x86\Debug\WindowsApplication7.InventoryForm.resources
+C:\Users\Delta User\Documents\Visual Studio 2013\Projects\WindowsApplication7\WindowsApplication7\obj\x86\Debug\WindowsApplication7.Resources.resources
+C:\Users\Delta User\Documents\Visual Studio 2013\Projects\WindowsApplication7\WindowsApplication7\obj\x86\Debug\WindowsApplication7.vbproj.GenerateResource.Cache
+C:\Users\Delta User\Documents\Visual Studio 2013\Projects\WindowsApplication7\WindowsApplication7\obj\x86\Debug\WindowsApplication7.exe
+C:\Users\Delta User\Documents\Visual Studio 2013\Projects\WindowsApplication7\WindowsApplication7\obj\x86\Debug\WindowsApplication7.xml
+C:\Users\Delta User\Documents\Visual Studio 2013\Projects\WindowsApplication7\WindowsApplication7\obj\x86\Debug\WindowsApplication7.pdb
+C:\Users\Delta User\Documents\Visual Studio 2010\Projects\WindowsApplication7\WindowsApplication7\obj\x86\Debug\WindowsApplication7.Form2.resources
+C:\Users\Delta User\Documents\Visual Studio 2010\Projects\WindowsApplication7\WindowsApplication7\obj\x86\Debug\WindowsApplication7.Form3.resources
+C:\Users\Delta User\Documents\Visual Studio 2010\Projects\WindowsApplication7\WindowsApplication7\obj\x86\Debug\WindowsApplication7.InventoryForm.resources
+C:\Users\Delta User\Documents\Visual Studio 2010\Projects\WindowsApplication7\WindowsApplication7\obj\x86\Debug\WindowsApplication7.formMonsterA.resources
+C:\Users\Delta User\Documents\Visual Studio 2010\Projects\WindowsApplication7\WindowsApplication7\obj\x86\Debug\WindowsApplication7.formMonsterB.resources
+C:\Users\Delta User\Documents\Visual Studio 2010\Projects\WindowsApplication7\WindowsApplication7\obj\x86\Debug\WindowsApplication7.formMonsterC.resources
+C:\Users\Delta User\Desktop\The Game\WindowsApplication7\WindowsApplication7\bin\Debug\WindowsApplication7.exe
+C:\Users\Delta User\Desktop\The Game\WindowsApplication7\WindowsApplication7\bin\Debug\WindowsApplication7.pdb
+C:\Users\Delta User\Desktop\The Game\WindowsApplication7\WindowsApplication7\bin\Debug\WindowsApplication7.xml
+C:\Users\Delta User\Desktop\The Game\WindowsApplication7\WindowsApplication7\obj\x86\Debug\WindowsApplication7.Form1.resources
+C:\Users\Delta User\Desktop\The Game\WindowsApplication7\WindowsApplication7\obj\x86\Debug\WindowsApplication7.Form2.resources
+C:\Users\Delta User\Desktop\The Game\WindowsApplication7\WindowsApplication7\obj\x86\Debug\WindowsApplication7.Form3.resources
+C:\Users\Delta User\Desktop\The Game\WindowsApplication7\WindowsApplication7\obj\x86\Debug\WindowsApplication7.formMonsterA.resources
+C:\Users\Delta User\Desktop\The Game\WindowsApplication7\WindowsApplication7\obj\x86\Debug\WindowsApplication7.formMonsterB.resources
+C:\Users\Delta User\Desktop\The Game\WindowsApplication7\WindowsApplication7\obj\x86\Debug\WindowsApplication7.formMonsterC.resources
+C:\Users\Delta User\Desktop\The Game\WindowsApplication7\WindowsApplication7\obj\x86\Debug\WindowsApplication7.InventoryForm.resources
+C:\Users\Delta User\Desktop\The Game\WindowsApplication7\WindowsApplication7\obj\x86\Debug\WindowsApplication7.Resources.resources
+C:\Users\Delta User\Desktop\The Game\WindowsApplication7\WindowsApplication7\obj\x86\Debug\WindowsApplication7.vbproj.GenerateResource.Cache
+C:\Users\Delta User\Desktop\The Game\WindowsApplication7\WindowsApplication7\obj\x86\Debug\WindowsApplication7.exe
+C:\Users\Delta User\Desktop\The Game\WindowsApplication7\WindowsApplication7\obj\x86\Debug\WindowsApplication7.xml
+C:\Users\Delta User\Desktop\The Game\WindowsApplication7\WindowsApplication7\obj\x86\Debug\WindowsApplication7.pdb
